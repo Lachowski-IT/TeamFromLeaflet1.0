@@ -10,4 +10,5 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+	//Dzielnice bronowice = new Dzielnice("Bronowice", 3, )
 }
